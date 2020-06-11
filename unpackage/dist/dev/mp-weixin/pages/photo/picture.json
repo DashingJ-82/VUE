@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "js17080103 丁健",
+  "navigationBarBackgroundColor": "#00aaff",
+  "backgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

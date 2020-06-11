@@ -1,0 +1,1 @@
+<view class="content"><swiper class="swiper" indicator-dots="{{true}}" autoplay="{{true}}" interval="{{3000}}" duration="{{1000}}"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__"><swiper-item><image class="img" src="{{'http://localhost:8080/Twelve/'+item.src}}"></image></swiper-item></block></swiper></view>

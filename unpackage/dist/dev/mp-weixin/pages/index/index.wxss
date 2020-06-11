@@ -1,0 +1,17 @@
+
+.content {
+	text-align: center;
+	height: 400rpx;
+}
+.logo {
+	height: 100rpx;
+	width: 100rpx;
+	margin-top: 350rpx;
+	margin-bottom: 10rpx;
+	border-radius: 50rpx;
+}
+.title {
+	font-size: 72rpx;
+	color: #8f8f94;
+}
+

@@ -1,0 +1,62 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "js17080103 丁健",
+			    "navigationBarBackgroundColor": "#EA5149", 				
+				"backgroundColor": "#F8F8F8" //窗口的背景色
+			}
+		},{
+		    "path" : "pages/photo/picture",
+		    "style": {
+		    	"navigationBarTitleText": "js17080103 丁健",
+		        "navigationBarBackgroundColor": "#00aaff", 				
+		    	"backgroundColor": "#F8F8F8" //窗口的背景色
+		    }
+		},{
+		    "path" : "pages/swiper/swiper",
+		    "style": {
+		    	"navigationBarTitleText": "js17080103 丁健",
+		        "navigationBarBackgroundColor": "#55ff00", 				
+		    	"backgroundColor": "#F8F8F8" //窗口的背景色
+		    }
+		},{
+		    "path" : "pages/my/my",
+		    "style": {
+		    	"navigationBarTitleText": "js17080103 丁健",
+		        "navigationBarBackgroundColor": "#c830c6", 				
+		    	"backgroundColor": "#F8F8F8" //窗口的背景色
+		    }
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "js17080103 丁健",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#a2a2a2",
+		"selectedColor": "#39cffc",
+		"borderStyle": "black",
+		"backgroundColor": "#ececec",
+		
+		"list": [
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页"
+			},
+			{
+				"pagePath":"pages/photo/picture",
+				"text":"头像"
+			},{
+				"pagePath":"pages/swiper/swiper",
+				"text":"滑稽"
+			},{
+				"pagePath":"pages/my/my",
+				"text":"我的"
+			}
+		]
+	}
+}

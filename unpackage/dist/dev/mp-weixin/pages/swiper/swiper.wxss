@@ -1,0 +1,9 @@
+
+.img{
+		border-radius: 35%;
+		border: 1px solid #55aaff;
+}
+.swiper{
+		height:330px;
+}
+

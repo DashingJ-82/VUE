@@ -1,0 +1,1 @@
+<view><view class="text">图片浏览：</view><view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><image src="{{'http://localhost/js17080103/'+item.src}}" mode="aspectFit"></image></block></view></view>

@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/photo/picture",
+    "pages/swiper/swiper",
+    "pages/my/my"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "js17080103 丁健",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#a2a2a2",
+    "selectedColor": "#39cffc",
+    "borderStyle": "black",
+    "backgroundColor": "#ececec",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/photo/picture",
+        "text": "头像"
+      },
+      {
+        "pagePath": "pages/swiper/swiper",
+        "text": "滑稽"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap46.json"
+}

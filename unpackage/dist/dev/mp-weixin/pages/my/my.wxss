@@ -1,0 +1,10 @@
+
+.bg-set{
+    position: fixed;
+    width: 80%;
+    height: 80%;
+    top: 5;
+    left: 0;
+    z-index: -1;
+}
+
